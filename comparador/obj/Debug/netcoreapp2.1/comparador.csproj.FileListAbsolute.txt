@@ -1,0 +1,10 @@
+C:\Programação\comparador\comparador\obj\Debug\netcoreapp2.1\comparador.csprojAssemblyReference.cache
+C:\Programação\comparador\comparador\obj\Debug\netcoreapp2.1\comparador.AssemblyInfoInputs.cache
+C:\Programação\comparador\comparador\obj\Debug\netcoreapp2.1\comparador.AssemblyInfo.cs
+C:\Programação\comparador\comparador\bin\Debug\netcoreapp2.1\comparador.deps.json
+C:\Programação\comparador\comparador\bin\Debug\netcoreapp2.1\comparador.runtimeconfig.json
+C:\Programação\comparador\comparador\bin\Debug\netcoreapp2.1\comparador.runtimeconfig.dev.json
+C:\Programação\comparador\comparador\bin\Debug\netcoreapp2.1\comparador.dll
+C:\Programação\comparador\comparador\bin\Debug\netcoreapp2.1\comparador.pdb
+C:\Programação\comparador\comparador\obj\Debug\netcoreapp2.1\comparador.dll
+C:\Programação\comparador\comparador\obj\Debug\netcoreapp2.1\comparador.pdb
